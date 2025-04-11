@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **belem2050/BELEM2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
